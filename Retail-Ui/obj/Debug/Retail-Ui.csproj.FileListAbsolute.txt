@@ -1,0 +1,29 @@
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail-Ui.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\App.g.cs
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail_Ui.Properties.Resources.resources
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail-Ui.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail-Ui.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Caliburn.Micro.dll
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Caliburn.Micro.xml
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\App.baml
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail-Ui.csproj.CopyComplete
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Retail App.exe.config
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Retail App.exe
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Retail App.pdb
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail App_MarkupCompile.cache
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail App_MarkupCompile.lref
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail App.g.resources
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail App.exe
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Retail App.pdb
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Views\LoginView.g.cs
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\obj\Debug\Views\LoginView.baml
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sasha\source\repos\Retail-Ui\Retail-Ui\bin\Debug\System.Net.Http.Formatting.xml

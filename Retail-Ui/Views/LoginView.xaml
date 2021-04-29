@@ -1,0 +1,20 @@
+﻿<Window x:Class="Retail_Ui.Views.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Retail_Ui.Views"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="title" Content="LOGIN" HorizontalAlignment="Left" Margin="321,68,0,0" VerticalAlignment="Top" Width="153" FontSize="40" RenderTransformOrigin="0.629,0.512">
+        </Label>
+
+        <Label x:Name="username_label" Content="Username" HorizontalAlignment="Left" Margin="247,163,0,0" VerticalAlignment="Top" FontSize="15">
+        </Label>
+        <Label x:Name="password_label" Content="Password" HorizontalAlignment="Left" Margin="247,218,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="0.746,0.563" Width="73"/>
+        <TextBox x:Name="UserName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="340,171,0,0"/>
+        <TextBox x:Name="Password" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="340,223,0,0"/>
+        <Button x:Name="button" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Margin="340,274,0,0" Click="Login"/>
+    </Grid>
+</Window>
